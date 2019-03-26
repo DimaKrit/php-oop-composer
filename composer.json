@@ -1,0 +1,15 @@
+{
+    "name": "darkavenger/pdf-oop-2",
+    "authors": [
+        {
+            "name": "dimakrit",
+            "email": "chemodan2@ukr.net"
+        }
+    ],
+    "require": {},
+	"autoload": {
+        "psr-4": {
+            "myProject\\": "app"
+        }
+    }
+}
